@@ -167,16 +167,3 @@ The code generates two recommendations for the song The Scientist by Coldplay, 1
 ![Output_3](https://github.com/VikramShenoy97/Music-Recommendation-Using-Deep-Learning/blob/master/Images/Output_3.png)
 
 
-## Built With
-
-* [Keras](https://keras.io) - Deep Learning Framework
-* [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) - Cloud Service
-
-## Authors
-
-* **Vikram Shenoy** - *Initial work* - [Vikram Shenoy](https://github.com/VikramShenoy97)
-
-## Acknowledgments
-
-* Project is inspired by **Sander Dieleman's** blog, [*Recommending music on Spotify with Deep Learning.*](http://benanne.github.io/2014/08/05/spotify-cnns.html)
-* [Free Music Archive Dataset](https://github.com/mdeff/fma)
