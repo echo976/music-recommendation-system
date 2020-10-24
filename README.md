@@ -33,14 +33,14 @@ The dataset is stored in the folder **Dataset** as *fma_small* *(File too large 
 
 ## Training
 
-Run the script *train.py* in the terminal as follows.
+Run the script *train.ipynb* in the terminal as follows.
 ```
-Python train.py
+Python train.ipynb
 ```
 
 ### Data Preprocessing
 
-The *train.py* script runs **import_data.py**, **slice_spectrogram.py**, and **load_data.py** in the back.
+The *train.ipynb* script runs **import_data.py**, **slice_spectrogram.py**, and **load_data.py** in the back.
 
 ### import_data.py
 • **Train Mode** - In training mode, the script converts the files from *fma_small* into mel-spectrograms and stores them into a folder called *Train_Spectrogram_Images*.
